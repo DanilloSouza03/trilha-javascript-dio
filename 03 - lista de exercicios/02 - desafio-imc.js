@@ -14,11 +14,9 @@ IMC em adultos Condição:
 - Acima de 40 Obsesidade Grave;
 */
 
-const peso = 20;
+const peso = 70;
 const altura = 1.70;
-
 const resultadoImc = peso / (altura * altura);
-
 console.log(`Seu IMC é ${resultadoImc.toFixed(2)}`)
 
 if (resultadoImc < 18.5) {
