@@ -20,5 +20,5 @@ if (media < 5) {
 } else if (media === 5 || media <= 7) {
     console.log(`Você tirou ${media.toFixed(2)} e está em recuperação`);
 } else {
-    console.log(`Você tirou ${media.toFixed(2)} e passou de semestre`)
+    console.log(`Você tirou ${media.toFixed(2)} e passou de semestre`);
 }
