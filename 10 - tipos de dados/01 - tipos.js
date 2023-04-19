@@ -3,9 +3,6 @@
     boolean
     null
     undefined
-    number
-    string
-    synbol
 */
 
 // object
@@ -26,4 +23,14 @@ const x1 = { nome: null};
 
 console.log(x1.nome);
 console.log(x1.idade);
+console.log('--------------------------')
+/*
+    number
+    string
+    symbol
+*/
+
+// +Infinity -Infinity e NaN
+// Double Precision 64-bit binary format IEEE 754
+
 
